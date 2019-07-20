@@ -13,7 +13,8 @@ they need to be converted to a machine language, that is called compilation<br>
 <img src="/img/bash-hello-world-01.png" alt="bash 01"><br>
 Following the tradition we're gonna create the classic "Hello World!" program<br>
 We must press "i" immediately after executing vi to change to INSERT mode<br>
-Once in the "insert" mode we can use "echo" to print text on the screen<br>
+Once in the "insert" mode we can type the command which will allow us to print text on the screen<br>
+in Bash that command is "echo", see below screenshot<br>
 <img src="/img/bash-hello-world-02.png" alt="bash 02"><br>
 We must use the ESC key to exit the edition mode of vi<br>
 and the type "WQ!" (write and quit)<br>
