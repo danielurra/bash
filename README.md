@@ -12,4 +12,5 @@ they need to be converted to a machine language, that is called compilation<br>
 ## Using vi to create our first bash script
 <img src="/img/bash-hello-world-01.png" alt="bash 01"><br>
 Following the tradition we're gonna create the classic "Hello World!" program<br>
-we can use "echo" to print text on the screen
+we can use "echo" to print text on the screen<br>
+<img src="/img/bash-hello-world-02.png" alt="bash 02"><br>
