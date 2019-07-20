@@ -6,7 +6,7 @@ How to know the version of Bash?<br>
 Bash executes programs directly from its source code, usually just text files<br>
 these text files actually are more than just text they are well known commands and sentences<br>
 which allow us to tell the computer what to do, we call them "source code"<br>
-and this particular code is called an "scripting language" or "intepreted language"<br>
+and this particular code is called an "scripting language"<br>
 Compiled languages on the other hand can not be executed just from the source code <br>
 they need to be converted to a machine language, that is called compilation<br>
 ## Using vi to create our first bash script
