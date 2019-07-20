@@ -12,8 +12,8 @@ they need to be converted to a machine language, that is called compilation<br>
 ## Using vi to create our first bash script
 <img src="/img/bash-hello-world-01.png" alt="bash 01"><br>
 Following the tradition we're gonna create the classic "Hello World!" program<br>
-we can use "echo" to print text on the screen<br>
 We must press "i" immediately after executing vi to change to INSERT mode<br>
+Once in the "insert" mode we can use "echo" to print text on the screen<br>
 <img src="/img/bash-hello-world-02.png" alt="bash 02"><br>
 We must use the ESC key to exit the edition mode of vi<br>
 and the type "WQ!" (write and quit)<br>
