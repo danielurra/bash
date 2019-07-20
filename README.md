@@ -9,3 +9,7 @@ which allow us to tell the computer what to do, we call them "source code"<br>
 and this particular code is called an "scripting language" or "intepreted language"<br>
 Compiled languages on the other hand can not be executed just from the source code <br>
 they need to be converted to a machine language, that is called compilation<br>
+## Using vi to create our first bash script
+<img src="/img/bash-hello-world-01.png" alt="bash 01"><br>
+Following the tradition we're gonna create the classic "Hello World!" program<br>
+we can use "echo" to print text on the screen
