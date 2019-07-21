@@ -21,7 +21,7 @@ We must use the ESC key to exit the edition mode of vi<br>
 and the type "WQ!" (write and quit)<br>
 <img src="/img/bash-hello-world-03.png" alt="bash 03"><br>
 Let's see if our new file is there<br>
-<img src="/img/bash-hello-world-04.png" alt="bash 04"><br>
+<img src="/img/bash-hello-world-04-v2.png" alt="bash 04"><br>
 Now we can run our first bash script<br>
 <img src="/img/bash-hello-world-05-v2.png" alt="bash 05"><br>
 ## How to find all the bash (.sh) files
