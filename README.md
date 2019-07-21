@@ -27,5 +27,5 @@ Now we can run our first bash script<br>
 ## How to find all the bash (.sh) files
 First let's see how many ".sh" files we do have<br>
 if we have a lot of them we can narrow our search to a particular folder<br>
-<img src="/img/bash-hello-world-05-v2.png" alt="bash 05"><br>
+<img src="/img/finding-all-bash-files-word-count-how-many.png" alt="bash 05"><br>
 
