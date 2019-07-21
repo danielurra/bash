@@ -30,5 +30,8 @@ if we have a lot of them we can narrow our search to a particular folder<br>
 <img src="/img/finding-all-bash-files-word-count-how-many.png" alt="bash 05"><br>
 I was right, 239 will give us a long list<br>
 let's then narrow our search to the directory /etc<br>
-<img src="/img/finding-all-bash-files-word-count-how-many.png" alt="bash 05"><br>
+<img src="/img/finding-bash-files-narrow.png" alt="bash 05"><br>
+Only 10 that's what I was looking for<br>
+Now let's list them<br>
+<img src="/img/finding-bash-files-narrow.png" alt=""><br>
 
