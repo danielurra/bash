@@ -23,4 +23,4 @@ and the type "WQ!" (write and quit)<br>
 Let's see if our new file is there<br>
 <img src="/img/bash-hello-world-04.png" alt="bash 04"><br>
 Now we can run our first bash script<br>
-<img src="/img/bash-hello-world-05.png" alt="bash 05"><br>
+<img src="/img/bash-hello-world-05-v2.png" alt="bash 05"><br>
