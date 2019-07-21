@@ -33,5 +33,5 @@ let's then narrow our search to the directory /etc<br>
 <img src="/img/finding-bash-files-narrow.png" alt="bash 05"><br>
 Only 10 that's what I was looking for<br>
 Now let's list them<br>
-<img src="/img/finding-bash-files-narrow.png" alt=""><br>
+<img src="/img/finding-bash-files.png" alt=""><br>
 
