@@ -37,4 +37,6 @@ Only 10 that's what I was looking for<br>
 Now let's list them<br>
 <img src="/img/finding-bash-files.png" alt=""><br>
 WAIT! Azure? Aren't we on Linux? <br>
+## Example of the content of a bash file
+<img src="/img/finding-bash-files.png" alt=""><br>
 
