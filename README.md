@@ -44,6 +44,6 @@ WAIT! Azure? Aren't we on Linux? <br>
 As You can see, the content of a bash file is just text<br>
 text in the form of sentences and commands<br>
 the main idea behind bash and the scripting language<br>
-is to help system administrator to deal with tedious and repetitive tasks<br>
-basically to make their life a little bit easy
+is to help system administrators to deal with tedious and repetitive tasks<br>
+making their job a little bit easy and enjoyable at the same time<br>
 
