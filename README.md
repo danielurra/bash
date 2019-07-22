@@ -5,8 +5,8 @@ How to know the version of Bash?<br>
 ## Scripting Languages vs Compiled languages
 Bash executes programs directly from its source code, usually just text files<br>
 these text files actually are more than just text they are a set of commands<br>
-most of these commands are well known by software engineers and system administrator<br>
-they are quite often already familiarized with them, because are used on their daily tasks<br>
+most of these commands are well known by software engineers and system administrators<br>
+they are quite often already familiarized with them, because they're used on their daily tasks<br>
 Using these commands and programming sentences we can tell the computer what to do<br>
 We use the term "source code", and this particular code makes the "scripting language"<br>
 Compiled languages on the other hand can not be executed just from the source code <br>
