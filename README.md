@@ -18,9 +18,9 @@ We must press "i" immediately after executing vi to change to INSERT mode<br>
 Once in the "insert" mode we can type the command which will allow us to print text on the screen<br>
 in Bash that command is "echo", see below screenshot<br>
 <img src="/img/bash-hello-world-02.png" alt="bash 02"><br>
-And that's it, quite a short program, don't you think?<br>
+And that's it! Quite a short program, don't you think?<br>
 We must use the ESC key to exit the edition mode of vi<br>
-and the type "WQ!" (write and quit)<br>
+then type "WQ!" (write and quit) and hit Enter<br>
 <img src="/img/bash-hello-world-03.png" alt="bash 03"><br>
 Let's see if our new file is there<br>
 <img src="/img/bash-hello-world-04-v2.png" alt="bash 04"><br>
