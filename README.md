@@ -1,4 +1,4 @@
-# bash
+# Bash
 Bash is the default shell for both Operating Systems, Linux and Mac<br>
 How to know the version of Bash?<br>
 <img src="/img/bash--version.png" alt="bash version"><br>
