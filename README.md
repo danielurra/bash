@@ -1,6 +1,7 @@
 # Bash
 Bash is the default "<b>Shell</b>" for both Operating Systems, Linux and Mac<br>
 Shell is the interface which allow persons to interact with computers<br>
+<br>
 How to know the version of Bash?<br>
 <img src="/img/bash--version.png" alt="bash version"><br>
 ## Scripting Languages vs Compiled languages
