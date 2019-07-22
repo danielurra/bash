@@ -38,5 +38,5 @@ Now let's list them<br>
 <img src="/img/finding-bash-files.png" alt=""><br>
 WAIT! Azure? Aren't we on Linux? <br>
 ## Example of the content of a bash file
-<img src="/img/finding-bash-files.png" alt=""><br>
+<img src="/img/example-01.png" alt=""><br>
 
