@@ -1,12 +1,14 @@
 # bash
-Bash is the default shell for both Linux and Mac<br>
+Bash is the default shell for both Operating Systems, Linux and Mac<br>
 How to know the version of Bash?<br>
 <img src="/img/bash--version.png" alt="bash version"><br>
 ## Scripting Languages vs Compiled languages
 Bash executes programs directly from its source code, usually just text files<br>
-these text files actually are more than just text they are well known commands and sentences<br>
-they allow us to tell the computer what to do, we call them "source code"<br>
-this particular code is called an "scripting language"<br>
+these text files actually are more than just text they are a set of commands<br>
+most of these commands are well known by software engineers and system administrator<br>
+they are often quite familiarized with them<br>
+Using these commands and programming sentences we can tell the computer what to do<br>
+We use the term "source code", and this particular code makes the "scripting language"<br>
 Compiled languages on the other hand can not be executed just from the source code <br>
 they need to be converted to a machine language, that is called compilation<br>
 ## Using vi to create our first bash script
