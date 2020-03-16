@@ -47,7 +47,7 @@ the main idea behind bash and the scripting language<br>
 is to help system administrators to deal with tedious and repetitive tasks<br>
 making their job a little bit easy and enjoyable at the same time<br>
 ## Do you prefer the colored syntax provided by modern text editors?
-I do prefer the colored sintax, see how easy is to identify the code comments<br>
+I do prefer the colored syntax, see how easy is to identify the code comments<br>
 By the way, the following screenshot belong to Atom text editor<br>
 <img src="/img/example-02.png" alt=""><br>
 
