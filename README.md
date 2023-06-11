@@ -9,7 +9,7 @@ How to know the version of Bash?<br>
 You probably know that's possible to have a Linux Ubuntu running on you Windows computer<br>
 A must have for any software developer<br>
 ![wsl](https://github.com/danielurra/bash/assets/51704179/60813dfc-d071-49db-bc75-fe5c4b53a37d)<br>
-Let's see which version was installed on mi computer by enabling WSL
+Let's see which version was installed on mi computer by enabling WSL<br>
 ``bash
 bash --version
 ``
