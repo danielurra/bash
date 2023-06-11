@@ -73,7 +73,7 @@ chmod u+x hello-world.sh
 ![chmod and execute](https://github.com/danielurra/bash/assets/51704179/313a0658-a941-4d3f-a7c1-3135ba9f5395)<br>
 
 ## How to find all the bash (.sh) files
-First let's see how many ".sh" files we do have in our system<br>
+First let's see how many ".sh" files we do have in our entire system, I mean starting from the root folder `/`<br>
 it's quite probable that we'll find **a lot** of them, but there's nothing to worry about<br>
 we can always narrow down our search to any particular folder we'd like<br>
 ```bash
