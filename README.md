@@ -96,7 +96,7 @@ find /etc -name "*.sh" 2> /dev/null
 WAIT! Azure? Aren't we on Linux? <br>
 ## Example of the content of a bash file
 ```bash
-/etc/profile.d/gawk.sh
+/etc/profile.d/vim.sh
 ```
 <img src="/img/example-01.png" alt=""><br>
 As you can see, the content of a bash file is just text, text in the form of sentences and commands<br>
