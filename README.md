@@ -56,6 +56,9 @@ Following the tradition we're gonna create the classic "Hello World!" program<br
 We must press "i" immediately after executing vi to change to INSERT mode<br>
 Once in the "insert" mode we can type the command which will allow us to print text on the screen<br>
 in Bash that command is "echo", see below screenshot<br>
+```bash
+echo Hello World!
+```
 <img src="/img/bash-hello-world-02.png" alt="bash 02"><br>
 And that's it! Quite a short program, don't you think?<br>
 We must use the ESC key to exit the edition mode of vi<br>
