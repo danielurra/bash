@@ -89,7 +89,7 @@ find /etc -name "*.sh" 2> /dev/null | wc -l
 ```
 <img src="/img/finding-bash-files-narrow.png" alt="bash 05"><br>
 Only 10 that's what I was looking for, now then let's list them<br>
-```bash
+```shell
 find /etc -name "*.sh" 2> /dev/null
 ```
 <img src="/img/finding-bash-files.png" alt=""><br>
