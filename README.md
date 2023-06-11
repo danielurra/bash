@@ -51,6 +51,11 @@ Let's see if our new file is there<br>
 <img src="/img/bash-hello-world-04-v2.png" alt="bash 04"><br>
 Now we can run our first bash script<br>
 <img src="/img/bash-hello-world-05-v2.png" alt="bash 05"><br>
+## chmod - Change Mode command
+I did try a few minutes ago with my WSL and it was needed to give execute permission to my user<br>
+```bash
+chmod u+x hello-world.sh
+```
 ## How to find all the bash (.sh) files
 First let's see how many ".sh" files we do have<br>
 if we have a lot of them we can narrow our search to a particular folder<br>
