@@ -80,8 +80,7 @@ we can always narrow down our search to any particular folder we'd like<br>
 find / -name "*.sh" 2> /dev/null | wc -l
 ```
 <img src="/img/finding-all-bash-files-word-count-how-many.png" alt="bash 05"><br>
-I was right, 239 will give us a long list<br>
-let's then narrow our search to the directory `/etc`<br>
+I was right, 239 will give us a long list, let's then narrow down our search to only include the directory `/etc`<br>
 ```bash
 find /etc -name "*.sh" 2> /dev/null | wc -l
 ```
