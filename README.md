@@ -7,8 +7,7 @@ Shell is the interface which allow persons to interact with computers<br>
 Use the following command to reveal the bash version running on your computer:</br>
 ``bash
 bash --version
-``
-</br>
+``</br>
 <img src="/img/bash--version.png" alt="bash version"></br>
 ## Are you using Linux in Windows? Windows Subsystem for Linux (WSL)
 You probably know that's possible to have a Linux Ubuntu running on you Windows computer<br>
