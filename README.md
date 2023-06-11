@@ -34,6 +34,9 @@ We use the term "source code", and this particular code makes the "scripting lan
 Compiled languages on the other hand can not be executed just from the source code <br>
 they need to be converted to a machine language, that is called compilation<br>
 ## Using vi to create our first bash script
+```bash
+vi hello-world.sh
+```
 <img src="/img/bash-hello-world-01.png" alt="bash 01"><br>
 Following the tradition we're gonna create the classic "Hello World!" program<br>
 We must press "i" immediately after executing vi to change to INSERT mode<br>
