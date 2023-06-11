@@ -1,5 +1,5 @@
 # Bash
-![bash-150x150px](https://github.com/danielurra/bash/assets/51704179/a2a90153-bbba-4da7-bac7-801464edbfd4)<br>
+![bash](https://github.com/danielurra/bash/assets/51704179/b73da097-8e3f-4e0e-95e2-2bd67bb0f1af)<br>
 Bash is the default "<b>Shell</b>" for both Operating Systems, Linux and Mac<br>
 Shell is the interface which allow persons to interact with computers<br>
 <br>
