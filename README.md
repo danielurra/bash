@@ -24,7 +24,7 @@ See the image below, these two additional features must be enabled:<br>
 Let's see which version was installed on my computer by enabling WSL<br>
 ![bash-version](https://github.com/danielurra/bash/assets/51704179/aafb35c6-772c-4a2d-adfb-ffbf420a4b2f)<br>
 
-## Scripting Languages vs Compiled languages
+## Scripting, Compiled, Interpreted languages
 **Bash** executes programs directly from its `source code`, usually just text files, these text files actually are more than just text<br>
 they are a set of commands, most of these commands are well known by software engineers and system administrators<br>
 they are quite often already familiarized with them, because they're used on their daily tasks<br>
@@ -33,6 +33,7 @@ We use the term "source code", and this particular code makes the "scripting lan
 Compiled languages on the other hand can not be executed just from the source code <br>
 they need to be converted to a machine language, that is called compilation.<br>
 **C, C++, C#** and **Java** are good examples of compiled programming languages.<br>
+**PHP, Ruby, Python, and JavaScript** are examples of `Interpreted languages`<br>
 ## CentOS, using "vi" to create our first bash script
 Most Linux distributions comes with a well know text editor called `"vi"`<br>
 Nowadays we all use an enhanced version called `"vim"`, you won't notice this because an alias will do the work under the hood<br>
