@@ -34,7 +34,7 @@ Compiled languages on the other hand can not be executed just from the source co
 they need to be converted to a machine language, that is called compilation.<br>
 **C, C++, C#** and **Java** are good examples of `compiled programming languages.`<br>
 The main difference between compiled and interpreted programming languages is that the last ones<br>
-are able to execute the **source code** directly without prior compilation<br>
+are able to execute the **source code** directly without prior compilation.<br>
 **PHP, Ruby, Python, and JavaScript** are examples of `Interpreted programming languages.`<br>
 ## CentOS, using "vi" to create our first bash script
 Most Linux distributions comes with a well know text editor called `"vi"`<br>
