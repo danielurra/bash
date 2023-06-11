@@ -18,7 +18,7 @@ A must have for any software developer.<br>
 ![wsl](https://github.com/danielurra/bash/assets/51704179/60813dfc-d071-49db-bc75-fe5c4b53a37d)<br>
 ## Windows Subsystem for Linux (WSL)
 Make sure you follow Microsoft's tutorial to get Ubuntu Linux running on your PC.<br>
-https://learn.microsoft.com/en-us/windows/wsl/install
+https://learn.microsoft.com/en-us/windows/wsl/install<br>
 See the image below, these two additional features must be enabled:<br>
 ![win-features](https://github.com/danielurra/bash/assets/51704179/417ce6e9-01c9-4b3e-beb0-86653905c67c)<br>
 Let's see which version was installed on mi computer by enabling WSL<br>
