@@ -25,8 +25,7 @@ Let's see which version was installed on mi computer by enabling WSL<br>
 ![bash-version](https://github.com/danielurra/bash/assets/51704179/aafb35c6-772c-4a2d-adfb-ffbf420a4b2f)<br>
 
 ## Scripting Languages vs Compiled languages
-Bash executes programs directly from its source code, usually just text files<br>
-these text files actually are more than just text they are a set of commands<br>
+Bash executes programs directly from its source code, usually just text files, these text files actually are more than just text they are a set of commands<br>
 most of these commands are well known by software engineers and system administrators<br>
 they are quite often already familiarized with them, because they're used on their daily tasks<br>
 Using these commands and programming sentences we can tell the computer what to do<br>
