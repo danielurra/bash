@@ -12,7 +12,7 @@ bash --version
 <img src="/img/bash--version.png" alt="bash version"></br>
 ## Are you using Linux in Windows? Windows Subsystem for Linux (WSL)
 You probably know that's possible to have a Linux Ubuntu running on you Windows computer<br>
-A must have for any software developer<br>
+A must have for any software developer.<br>
 ![wsl](https://github.com/danielurra/bash/assets/51704179/60813dfc-d071-49db-bc75-fe5c4b53a37d)<br>
 ## Windows Subsystem for Linux (WSL)
 ![win-features](https://github.com/danielurra/bash/assets/51704179/417ce6e9-01c9-4b3e-beb0-86653905c67c)
