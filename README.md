@@ -35,7 +35,7 @@ Compiled languages on the other hand can not be executed just from the source co
 they need to be converted to a machine language, that is called compilation<br>
 ## CentOS, using "vi" to create our first bash script
 Most Linux distributions comes with a well know text editor called `"vi"`<br>
-Nowadays we all use an enhanced version called `"vim"`<br>
+Nowadays we all use an enhanced version called `"vim"`, you won't notice this because an alias will do the work under the hood<br>
 The learning curve for this useful tool is not a fast one, but once you get familiar with<br>
 its operation modes and how to move inside a text file, you're ready to conquer the world<br>
 ```bash
