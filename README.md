@@ -1,6 +1,6 @@
 # Bash
 ![bash](https://github.com/danielurra/bash/assets/51704179/b73da097-8e3f-4e0e-95e2-2bd67bb0f1af)<br>
-Bash is the default "<b>Shell</b>" for Unix-based OS, like Linux distributions and also the famous Apple's Mac OS<br>
+Bash is the default "<b>Shell</b>" for Unix-based Operating Systems like Linux distributions and also the famous Apple's Mac OS<br>
 Shell is the interface which allow persons to interact with computers<br>
 ## Linux CentOS, how to know the version of Bash?
 Use the following command to reveal the bash version running on your computer:<br>
