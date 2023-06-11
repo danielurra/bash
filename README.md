@@ -95,6 +95,9 @@ find /etc -name "*.sh" 2> /dev/null
 <img src="/img/finding-bash-files.png" alt=""><br>
 WAIT! Azure? Aren't we on Linux? <br>
 ## Example of the content of a bash file
+```bash
+/etc/profile.d/gawk.sh
+```
 <img src="/img/example-01.png" alt=""><br>
 As you can see, the content of a bash file is just text, text in the form of sentences and commands<br>
 the main idea behind bash and the scripting language is to help system administrators to deal with tedious and repetitive tasks<br>
