@@ -21,11 +21,11 @@ Make sure you follow Microsoft's documentation to get `Ubuntu Linux` running on 
 https://learn.microsoft.com/en-us/windows/wsl/install<br>
 See the image below, these two additional features must be enabled:<br>
 ![win-features](https://github.com/danielurra/bash/assets/51704179/417ce6e9-01c9-4b3e-beb0-86653905c67c)<br>
-Use the following CMD command to open the enable features windows:<br>
-```bash
+Use the following CMD command to open the enable features window:<br>
+```cmd
 appwiz.cpl
 ```
-![run](https://github.com/danielurra/bash/assets/51704179/7b61a923-64c1-40f0-931a-448b2a414a94)
+![run](https://github.com/danielurra/bash/assets/51704179/7b61a923-64c1-40f0-931a-448b2a414a94)<br>
 Then on the left hand side click where it says "Turn Windows features ON/OFF"<br>
 Let's see which version was installed on my computer by enabling WSL<br>
 ![bash-version](https://github.com/danielurra/bash/assets/51704179/aafb35c6-772c-4a2d-adfb-ffbf420a4b2f)<br>
