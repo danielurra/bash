@@ -5,9 +5,10 @@ Shell is the interface which allow persons to interact with computers</br>
 </br>
 ## Linux CentOS, how to know the version of Bash?
 Use the following command to reveal the bash version running on your computer:</br>
-``bash
+
+```bash
 bash --version
-``
+```
 </br>
 <img src="/img/bash--version.png" alt="bash version"></br>
 ## Are you using Linux in Windows?
