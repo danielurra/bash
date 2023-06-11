@@ -12,7 +12,7 @@ Use the following command to reveal the bash version running on your computer:<b
 bash --version
 ```
 <img src="/img/bash--version.png" alt="bash version"><br>
-## Are you using Linux in Windows?
+## Do you have Linux running on Windows?
 You probably know that's possible to have a Linux Ubuntu running on you Windows computer<br>
 A must have for any software developer.<br>
 ![wsl](https://github.com/danielurra/bash/assets/51704179/60813dfc-d071-49db-bc75-fe5c4b53a37d)<br>
