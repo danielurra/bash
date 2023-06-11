@@ -4,6 +4,9 @@ Bash is the default "<b>Shell</b>" for both Operating Systems, Linux and Mac<br>
 Shell is the interface which allow persons to interact with computers<br>
 <br>
 ## How to know the version of Bash?<br>
+``bash
+bash --version
+``
 <img src="/img/bash--version.png" alt="bash version"><br>
 ## Are you using Linux in Windows? Windows Subsystem for Linux (WSL)
 You probably know that's possible to have a Linux Ubuntu running on you Windows computer<br>
@@ -12,9 +15,6 @@ A must have for any software developer<br>
 ## Windows Subsystem for Linux (WSL)
 ![win-features](https://github.com/danielurra/bash/assets/51704179/417ce6e9-01c9-4b3e-beb0-86653905c67c)
 Let's see which version was installed on mi computer by enabling WSL<br>
-``bash
-bash --version
-``
 ![bash-version](https://github.com/danielurra/bash/assets/51704179/aafb35c6-772c-4a2d-adfb-ffbf420a4b2f)
 
 ## Scripting Languages vs Compiled languages
