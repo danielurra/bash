@@ -85,8 +85,10 @@ I was right, 239 will give us a long list, let's then narrow down our search to 
 find /etc -name "*.sh" 2> /dev/null | wc -l
 ```
 <img src="/img/finding-bash-files-narrow.png" alt="bash 05"><br>
-Only 10 that's what I was looking for<br>
-Now let's list them<br>
+Only 10 that's what I was looking for, now then let's list them<br>
+```bash
+find /etc -name "*.sh" 2> /dev/null
+```
 <img src="/img/finding-bash-files.png" alt=""><br>
 WAIT! Azure? Aren't we on Linux? <br>
 ## Example of the content of a bash file
