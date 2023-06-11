@@ -5,6 +5,16 @@ Shell is the interface which allow persons to interact with computers<br>
 <br>
 How to know the version of Bash?<br>
 <img src="/img/bash--version.png" alt="bash version"><br>
+## Are you using Linux in Windows? Windows Subsystem for Linux (WSL)
+You probably know that's possible to have a Linux Ubuntu running on you Windows computer<br>
+A must have for any software developer<br>
+![wsl](https://github.com/danielurra/bash/assets/51704179/60813dfc-d071-49db-bc75-fe5c4b53a37d)<br>
+Let's see which version was installed on mi computer by enabling WSL
+``bash
+bash --version
+``
+![bash-version](https://github.com/danielurra/bash/assets/51704179/aafb35c6-772c-4a2d-adfb-ffbf420a4b2f)
+
 ## Scripting Languages vs Compiled languages
 Bash executes programs directly from its source code, usually just text files<br>
 these text files actually are more than just text they are a set of commands<br>
