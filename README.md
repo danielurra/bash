@@ -32,8 +32,8 @@ Using these commands and programming sentences we can tell the computer what to 
 We use the term "source code", and this particular code makes the "scripting language"<br>
 Compiled languages on the other hand can not be executed just from the source code <br>
 they need to be converted to a machine language, that is called compilation.<br>
-**C, C++, C#** and **Java** are good examples of compiled programming languages.<br>
-**PHP, Ruby, Python, and JavaScript** are examples of `Interpreted languages`<br>
+**C, C++, C#** and **Java** are good examples of `compiled programming languages.`<br>
+**PHP, Ruby, Python, and JavaScript** are examples of `Interpreted programming languages.`<br>
 ## CentOS, using "vi" to create our first bash script
 Most Linux distributions comes with a well know text editor called `"vi"`<br>
 Nowadays we all use an enhanced version called `"vim"`, you won't notice this because an alias will do the work under the hood<br>
