@@ -8,8 +8,8 @@ Use the following command to reveal the bash version running on your computer:</
 ``bash
 bash --version
 ``
-<br>
-<img src="/img/bash--version.png" alt="bash version"><br>
+</br>
+<img src="/img/bash--version.png" alt="bash version"></br>
 ## Are you using Linux in Windows? Windows Subsystem for Linux (WSL)
 You probably know that's possible to have a Linux Ubuntu running on you Windows computer<br>
 A must have for any software developer<br>
