@@ -33,7 +33,7 @@ Using these commands and programming sentences we can tell the computer what to 
 We use the term "source code", and this particular code makes the "scripting language"<br>
 Compiled languages on the other hand can not be executed just from the source code <br>
 they need to be converted to a machine language, that is called compilation<br>
-## Using vi to create our first bash script
+## CentOS, using "vi" (built-in text editor) to create our first bash script
 ```bash
 vi hello-world.sh
 ```
