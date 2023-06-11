@@ -93,10 +93,8 @@ find /etc -name "*.sh" 2> /dev/null
 WAIT! Azure? Aren't we on Linux? <br>
 ## Example of the content of a bash file
 <img src="/img/example-01.png" alt=""><br>
-As You can see, the content of a bash file is just text<br>
-text in the form of sentences and commands<br>
-the main idea behind bash and the scripting language<br>
-is to help system administrators to deal with tedious and repetitive tasks<br>
+As you can see, the content of a bash file is just text, text in the form of sentences and commands<br>
+the main idea behind bash and the scripting language is to help system administrators to deal with tedious and repetitive tasks<br>
 making their job a little bit easy and enjoyable at the same time<br>
 ## Do you prefer the colored syntax provided by modern text editors?
 I do prefer the colored syntax, see how easy is to identify the code comments<br>
