@@ -56,6 +56,8 @@ I did try a few minutes ago with my WSL and it was needed to give execute permis
 ```bash
 chmod u+x hello-world.sh
 ```
+![chmod and execute](https://github.com/danielurra/bash/assets/51704179/313a0658-a941-4d3f-a7c1-3135ba9f5395)<br>
+
 ## How to find all the bash (.sh) files
 First let's see how many ".sh" files we do have<br>
 if we have a lot of them we can narrow our search to a particular folder<br>
