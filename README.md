@@ -3,7 +3,7 @@
 Bash is the default "<b>Shell</b>" for both Operating Systems, Linux and Mac<br>
 Shell is the interface which allow persons to interact with computers</br>
 </br>
-## How to know the version of Bash?
+## Linux CentOS, how to know the version of Bash?
 Use the following command to reveal the bash version running on your computer:</br>
 ``bash
 bash --version
