@@ -26,7 +26,8 @@ Use the following CMD command to open the enable features window:<br>
 appwiz.cpl
 ```
 ![run](https://github.com/danielurra/bash/assets/51704179/7b61a923-64c1-40f0-931a-448b2a414a94)<br>
-Then on the left hand side click where it says "Turn Windows features ON/OFF"<br>
+Then on the left hand side click where it says `"Turn Windows features ON/OFF"`<br>
+## Bash version of WSL
 Let's see which version was installed on my computer by enabling WSL<br>
 ![bash-version](https://github.com/danielurra/bash/assets/51704179/aafb35c6-772c-4a2d-adfb-ffbf420a4b2f)<br>
 
