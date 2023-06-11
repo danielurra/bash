@@ -75,6 +75,9 @@ chmod u+x hello-world.sh
 ## How to find all the bash (.sh) files
 First let's see how many ".sh" files we do have<br>
 if we have a lot of them we can narrow our search to a particular folder<br>
+```bash
+find / -name "*.sh" 2> /dev/null | wc -l
+```
 <img src="/img/finding-all-bash-files-word-count-how-many.png" alt="bash 05"><br>
 I was right, 239 will give us a long list<br>
 let's then narrow our search to the directory /etc<br>
