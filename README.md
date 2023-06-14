@@ -92,6 +92,7 @@ Only 10 that's what I was looking for, now then let's list them<br>
 ```shell
 find /etc -name "*.sh" 2> /dev/null
 ```
+If you don't want to see errors, then use `2>/dev/null`<br>
 <img src="/img/finding-bash-files.png" alt=""><br>
 WAIT! Azure? Aren't we on Linux? <br>
 ## Example of the content of a bash file
